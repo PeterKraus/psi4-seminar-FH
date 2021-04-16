@@ -1,0 +1,14 @@
+name: psi4_seminar
+channels:
+  - psi4/label/dev
+  - conda-forge
+dependencies:
+  - psi4
+  - psi4-rt
+  - ipykernel
+  - ipywidgets
+  - numpy
+  - scipy
+  - jupyterthemes
+  - rise
+  - jupyter_contrib_nbextensions
